@@ -5,7 +5,6 @@ A fun and interactive browser-based memory matching game built with vanilla Java
 ## 📋 Table of Contents
 
 - [Features](#features)
-- [Demo](#demo)
 - [Quick Start](#quick-start)
 - [Installation](#installation)
 - [How to Use](#how-to-use)
