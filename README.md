@@ -91,4 +91,4 @@ cd memory-game
 
 ---
 
-**Enjoy the game! 🎉** If you like this project, please give it a ⭐!
+**Enjoy the game! 🎉** 
